@@ -1,0 +1,8 @@
+ Volume in drive C is OS
+ Volume Serial Number is 3235-5AFA
+
+ Directory of C:\Users\prabh\stable-diffusion-webui\venv\Scripts
+
+15-05-2024  16:06           266,664 python.exe
+               1 File(s)        266,664 bytes
+               0 Dir(s)  277,206,933,504 bytes free
